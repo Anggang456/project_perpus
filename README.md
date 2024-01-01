@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://poliwangi.ac.id/wp-content/uploads/2020/12/logo-poliwangi.png" width="150"></a></p>
+<p align="center"><a href="https://ta.poliwangi.ac.id/~ti21003/" target="_blank"><img src="https://poliwangi.ac.id/wp-content/uploads/2020/12/logo-poliwangi.png" width="150"></a></p>
 
 <p >
 <h1 align="center">Digital Library</h1>
@@ -16,4 +16,4 @@ The digital library of Poliwangi is a digital library utilizing Progressive Web 
 - Visit history
 - Profile User
 
-
+https://ta.poliwangi.ac.id/~ti21003/
