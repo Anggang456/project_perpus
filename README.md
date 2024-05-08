@@ -19,4 +19,3 @@ The digital library of Poliwangi is a digital library utilizing Progressive Web 
 - Profile User
   <br>Profile is a key feature on various platforms and applications that enables users to present personal and professional information in a structured manner. This feature provides the ability to build an online identity, customize self-presentation, manage privacy levels, and connect with other platforms. Profiles aid in building an online reputation, creating richer interactions, and providing opportunities to share regular updates and achievements. Thus, the profile feature becomes a crucial element in enriching the user experience in the digital world.
 
-https://ta.poliwangi.ac.id/~ti21003/
